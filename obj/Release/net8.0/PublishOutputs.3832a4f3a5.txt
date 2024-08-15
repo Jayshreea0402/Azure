@@ -1,0 +1,12 @@
+C:\Users\jayshree.acharya\project\azure-app-trev\bin\Release\net8.0\publish\azure-app-trev.exe
+C:\Users\jayshree.acharya\project\azure-app-trev\bin\Release\net8.0\publish\publish\web.config
+C:\Users\jayshree.acharya\project\azure-app-trev\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\jayshree.acharya\project\azure-app-trev\bin\Release\net8.0\publish\appsettings.json
+C:\Users\jayshree.acharya\project\azure-app-trev\bin\Release\net8.0\publish\publish\appsettings.Development.json
+C:\Users\jayshree.acharya\project\azure-app-trev\bin\Release\net8.0\publish\publish\appsettings.json
+C:\Users\jayshree.acharya\project\azure-app-trev\bin\Release\net8.0\publish\publish\azure-app-trev.deps.json
+C:\Users\jayshree.acharya\project\azure-app-trev\bin\Release\net8.0\publish\publish\azure-app-trev.runtimeconfig.json
+C:\Users\jayshree.acharya\project\azure-app-trev\bin\Release\net8.0\publish\azure-app-trev.dll
+C:\Users\jayshree.acharya\project\azure-app-trev\bin\Release\net8.0\publish\azure-app-trev.deps.json
+C:\Users\jayshree.acharya\project\azure-app-trev\bin\Release\net8.0\publish\azure-app-trev.runtimeconfig.json
+C:\Users\jayshree.acharya\project\azure-app-trev\bin\Release\net8.0\publish\azure-app-trev.pdb
